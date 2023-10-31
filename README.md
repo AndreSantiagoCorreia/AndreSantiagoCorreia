@@ -1,7 +1,7 @@
 - Hi, I’m @AndreSantiagoCorreia 👋
-- I’m interested in Web Development and Machine Learning 👀
-- I’m currently learning Web Development (Back-end)
-- I’m looking to collaborate on the creation of websites
+- I’m interested in Full-stack Development and Machine Learning 👀
+- I’m currently learning AWS
+- I’m looking to collaborate on video games development
 - How to reach me andrecorreia0407@gmail.com 📫
 
 <!---
