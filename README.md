@@ -6,7 +6,7 @@
 
 🚀 Join me on this journey as I strive to blend creativity with cutting-edge technology. Let's build something extraordinary together!
 
-⚒ Currently on the lookout for exciting job opportunities, I bring hands-on experience and a fervent interest in the captivating world of video game development.
+⚒ Currently on the lookout for exciting job opportunities on developer roles, on the lookout for a inclusive and collaborative work environment.
 
 📫 How to reach me andrecorreia0407@gmail.com
 
