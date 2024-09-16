@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub!
 
-🎓 I'm a passionate 5th-year computer engineering student eagerly diving into the realms of software development. 
+🎓 I'm a passionate recent graduate in Computer Engineering eagerly diving into the realms of software development. 
 
 💻 Within these repositories, you'll find my explorations, projects, and contributions, reflecting my dedication to honing my skills.
 
